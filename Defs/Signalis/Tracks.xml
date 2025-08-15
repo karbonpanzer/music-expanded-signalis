@@ -1,0 +1,306 @@
+<Defs>
+	<!-- Ambient Tracks -->
+	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- 3000 Cycles (I Missed You)</label>
+		<defName>ME_Signalis_3000_Cycles</defName>
+		<clipPath>MusicExpanded/Signalis/3000 Cycles (I Missed You)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Adler</label>
+		<defName>ME_Signalis_Adler</defName>
+		<clipPath>MusicExpanded/Signalis/Adler</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Ariane's Theme</label>
+		<defName>ME_Signalis_Arianes_Theme</defName>
+		<clipPath>MusicExpanded/Signalis/Ariane's Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Bodies</label>
+		<defName>ME_Signalis_Bodies</defName>
+		<clipPath>MusicExpanded/Signalis/Bodies</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Causal Loop</label>
+		<defName>ME_Signalis_Causal_Loop</defName>
+		<clipPath>MusicExpanded/Signalis/Causal Loop</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Coal Ash Slurry</label>
+		<defName>ME_Signalis_Coal_Ash_Slurry</defName>
+		<clipPath>MusicExpanded/Signalis/Coal Ash Slurry</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Crepuscular</label>
+		<defName>ME_Signalis_Crepuscular</defName>
+		<clipPath>MusicExpanded/Signalis/Crepuscular</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Die Toteninsel (Emptiness)</label>
+		<defName>ME_Signalis_Die_Toteninsel</defName>
+		<clipPath>MusicExpanded/Signalis/Die Toteninsel (Emptiness)</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Double Back</label>
+		<defName>ME_Signalis_Double_Back</defName>
+		<clipPath>MusicExpanded/Signalis/Double Back</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Double Back (VHS Vers)</label>
+		<defName>ME_Signalis_Double_Back_VHS</defName>
+		<clipPath>MusicExpanded/Signalis/Double Back (VHS Vers)</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Dowsing</label>
+		<defName>ME_Signalis_Dowsing</defName>
+		<clipPath>MusicExpanded/Signalis/Dowsing</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Dream Diary</label>
+		<defName>ME_Signalis_Dream_Diary</defName>
+		<clipPath>MusicExpanded/Signalis/Dream Diary</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Eternity in a Box</label>
+		<defName>ME_Signalis_Eternity_in_a_Box</defName>
+		<clipPath>MusicExpanded/Signalis/Eternity in a Box</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Eulenlieder</label>
+		<defName>ME_Signalis_Eulenlieder</defName>
+		<clipPath>MusicExpanded/Signalis/Eulenlieder</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Ewige Wiederkunft</label>
+		<defName>ME_Signalis_Ewige_Wiederkunft</defName>
+		<clipPath>MusicExpanded/Signalis/Ewige Wiederkunft</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Falke's Theme</label>
+		<defName>ME_Signalis_Falkes_Theme</defName>
+		<clipPath>MusicExpanded/Signalis/Falke's Theme</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Haint Tales</label>
+		<defName>ME_Signalis_Haint_Tales</defName>
+		<clipPath>MusicExpanded/Signalis/Haint Tales</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Hamstrung</label>
+		<defName>ME_Signalis_Hamstrung</defName>
+		<clipPath>MusicExpanded/Signalis/Hamstrung</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Home</label>
+		<defName>ME_Signalis_Home</defName>
+		<clipPath>MusicExpanded/Signalis/Home</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Kolibri</label>
+		<defName>ME_Signalis_Kolibri</defName>
+		<clipPath>MusicExpanded/Signalis/Kolibri</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Labyrinth</label>
+		<defName>ME_Signalis_Labyrinth</defName>
+		<clipPath>MusicExpanded/Signalis/Labyrinth</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Liminality</label>
+		<defName>ME_Signalis_Liminality</defName>
+		<clipPath>MusicExpanded/Signalis/Liminality</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Lived In</label>
+		<defName>ME_Signalis_Lived_In</defName>
+		<clipPath>MusicExpanded/Signalis/Lived In</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Matryoshka</label>
+		<defName>ME_Signalis_Matryoshka</defName>
+		<clipPath>MusicExpanded/Signalis/Matryoshka</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Misremembered</label>
+		<defName>ME_Signalis_Misremembered</defName>
+		<clipPath>MusicExpanded/Signalis/Misremembered</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- MNHR</label>
+		<defName>ME_Signalis_MNHR</defName>
+		<clipPath>MusicExpanded/Signalis/MNHR</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Near Dark by the Pond</label>
+		<defName>ME_Signalis_Near_Dark_by_the_Pond</defName>
+		<clipPath>MusicExpanded/Signalis/Near Dark by the Pond</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Orrery</label>
+		<defName>ME_Signalis_Orrery</defName>
+		<clipPath>MusicExpanded/Signalis/Orrery</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Ritual</label>
+		<defName>ME_Signalis_Ritual</defName>
+		<clipPath>MusicExpanded/Signalis/Ritual</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Ritual (Nowhere)</label>
+		<defName>ME_Signalis_Ritual_Nowhere</defName>
+		<clipPath>MusicExpanded/Signalis/Ritual Nowhere</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Rogue Wave</label>
+		<defName>ME_Signalis_Rogue_Wave</defName>
+		<clipPath>MusicExpanded/Signalis/Rogue Wave</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Rotfront Moon</label>
+		<defName>ME_Signalis_Rotfront_Moon</defName>
+		<clipPath>MusicExpanded/Signalis/Rotfront Moon</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Safe Room</label>
+		<defName>ME_Signalis_Safe_Room</defName>
+		<clipPath>MusicExpanded/Signalis/Safe Room</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Sea Smoke</label>
+		<defName>ME_Signalis_Sea_Smoke</defName>
+		<clipPath>MusicExpanded/Signalis/Sea Smoke</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Teeth</label>
+		<defName>ME_Signalis_Teeth</defName>
+		<clipPath>MusicExpanded/Signalis/Teeth</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- The Promise</label>
+		<defName>ME_Signalis_The_Promise</defName>
+		<clipPath>MusicExpanded/Signalis/The Promise</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- The Red Gate</label>
+		<defName>ME_Signalis_The_Red_Gate</defName>
+		<clipPath>MusicExpanded/Signalis/The Red Gate</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Train Ride</label>
+		<defName>ME_Signalis_Train_Ride</defName>
+		<clipPath>MusicExpanded/Signalis/Train Ride</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Troublesome Creek</label>
+		<defName>ME_Signalis_Troublesome_Creek</defName>
+		<clipPath>MusicExpanded/Signalis/Troublesome Creek</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Turned Around</label>
+		<defName>ME_Signalis_Turned_Around</defName>
+		<clipPath>MusicExpanded/Signalis/Turned Around</clipPath>
+	</MusicExpanded.TrackDef>
+		
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Visions of Alina</label>
+		<defName>ME_Signalis_Visions_of_Alina</defName>
+		<clipPath>MusicExpanded/Signalis/Visions of Alina</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Warm Light</label>
+		<defName>ME_Signalis_Warm_Light</defName>
+		<clipPath>MusicExpanded/Signalis/Warm Light</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- You have changed</label>
+		<defName>ME_Signalis_You_have_changed</defName>
+		<clipPath>MusicExpanded/Signalis/You have changed</clipPath>
+	</MusicExpanded.TrackDef>
+
+	<!-- Combat Tracks -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Riot Control</label>
+		<defName>ME_Signalis_Riot_Control</defName>
+		<clipPath>MusicExpanded/Signalis/Riot Control</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Become Whole Again</label>
+		<defName>ME_Signalis_Become_Whole_Again</defName>
+		<clipPath>MusicExpanded/Signalis/Become Whole Again</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Cigarette Wife</label>
+		<defName>ME_Signalis_Cigarette_Wife</defName>
+		<clipPath>MusicExpanded/Signalis/Cigarette Wife</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Pneumatic</label>
+		<defName>ME_Signalis_Pneumatic</defName>
+		<clipPath>MusicExpanded/Signalis/Pneumatic</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Incinerator</label>
+		<defName>ME_Signalis_Incinerator</defName>
+		<clipPath>MusicExpanded/Signalis/Incinerator</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Intensive Care</label>
+		<defName>ME_Signalis_Intensive_Care</defName>
+		<clipPath>MusicExpanded/Signalis/Intensive Care</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Kentucky Meat Shower</label>
+		<defName>ME_Signalis_Kentucky_Meat_Shower</defName>
+		<clipPath>MusicExpanded/Signalis/Kentucky Meat Shower</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Nue</label>
+		<defName>ME_Signalis_Nue</defName>
+		<clipPath>MusicExpanded/Signalis/Nue</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Prison</label>
+		<defName>ME_Signalis_Prison</defName>
+		<clipPath>MusicExpanded/Signalis/Prison</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- I Can't Stop Now</label>
+		<defName>ME_Signalis_I_Cant_Stop_Now</defName>
+		<clipPath>MusicExpanded/Signalis/I Can't Stop Now</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Blockwart</label>
+		<defName>ME_Signalis_Blockwart</defName>
+		<clipPath>MusicExpanded/Signalis/Blockwart</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Mynah</label>
+		<defName>ME_Signalis_Mynah</defName>
+		<clipPath>MusicExpanded/Signalis/Mynah</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Signalis- Turned Around (Menu)</label>
+		<defName>ME_Signalis_Turned_Around_Menu</defName>
+		<clipPath>MusicExpanded/Signalis/Turned Around (Menu)</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>	
+
+</Defs>

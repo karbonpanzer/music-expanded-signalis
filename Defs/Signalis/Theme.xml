@@ -1,0 +1,77 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Signalis</defName>
+        <label>Music Expanded: Signalis</label>
+		<iconPath>UI/Icons/Signalis</iconPath>
+        <description>Contains Tracks from Signalis and features several combat tracks from the game.</description>
+		<tracks>	
+			<!-- Ambient Tracks --> 	
+			
+			<li>ME_Signalis_3000_Cycles</li>
+			<li>ME_Signalis_Adler</li>
+			<li>ME_Signalis_Arianes_Theme</li>
+			<li>ME_Signalis_Bodies</li>
+			<li>ME_Signalis_Causal_Loop</li>
+			<li>ME_Signalis_Coal_Ash_Slurry</li>
+			<li>ME_Signalis_Crepuscular</li>
+			<li>ME_Signalis_Die_Toteninsel</li>
+			<li>ME_Signalis_Double_Back</li>
+			<li>ME_Signalis_Double_Back_VHS</li>
+		
+			<li>ME_Signalis_Dowsing</li>
+			<li>ME_Signalis_Dream_Diary</li>
+			<li>ME_Signalis_Eternity_in_a_Box</li>
+			<li>ME_Signalis_Eulenlieder</li>
+			<li>ME_Signalis_Ewige_Wiederkunft</li>
+			<li>ME_Signalis_Falkes_Theme</li>
+			<li>ME_Signalis_Haint_Tales</li>
+			<li>ME_Signalis_Hamstrung</li>
+			<li>ME_Signalis_Home</li>
+			<li>ME_Signalis_Kolibri</li>
+
+			<li>ME_Signalis_Labyrinth</li>
+			<li>ME_Signalis_Liminality</li>
+			<li>ME_Signalis_Lived_In</li>
+			<li>ME_Signalis_Matryoshka</li>
+			<li>ME_Signalis_Misremembered</li>
+			<li>ME_Signalis_MNHR</li>
+			<li>ME_Signalis_Near_Dark_by_the_Pond</li>
+			<li>ME_Signalis_Orrery</li>
+			<li>ME_Signalis_Ritual</li>
+			<li>ME_Signalis_Ritual_Nowhere</li>
+
+			<li>ME_Signalis_Rogue_Wave</li>
+			<li>ME_Signalis_Rotfront_Moon</li>
+			<li>ME_Signalis_Safe_Room</li>
+			<li>ME_Signalis_Sea_Smoke</li>
+			<li>ME_Signalis_Teeth</li>
+			<li>ME_Signalis_The_Promise</li>
+			<li>ME_Signalis_The_Red_Gate</li>
+			<li>ME_Signalis_Train_Ride</li>
+			<li>ME_Signalis_Troublesome_Creek</li>
+			<li>ME_Signalis_Turned_Around</li>
+			
+			<li>ME_Signalis_Visions_of_Alina</li>
+			<li>ME_Signalis_Warm_Light</li>
+			<li>ME_Signalis_You_have_changed</li>
+			
+			<!-- Combat Tracks --> 						
+			<li>ME_Signalis_Riot_Control</li>
+			<li>ME_Signalis_Become_Whole_Again</li>
+			<li>ME_Signalis_Cigarette_Wife</li>
+			<li>ME_Signalis_Pneumatic</li>
+			<li>ME_Signalis_Incinerator</li>
+			<li>ME_Signalis_Intensive_Care</li>
+			<li>ME_Signalis_Kentucky_Meat_Shower</li>
+			<li>ME_Signalis_Nue</li>
+			<li>ME_Signalis_Prison</li>
+			<li>ME_Signalis_I_Cant_Stop_Now</li>
+			<li>ME_Signalis_Blockwart</li>
+			<li>ME_Signalis_Mynah</li>
+
+			<!-- Interface Tracks --> 						
+			<li>ME_Signalis_Turned_Around_Menu</li>
+		
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

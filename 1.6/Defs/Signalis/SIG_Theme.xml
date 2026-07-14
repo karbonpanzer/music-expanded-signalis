@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_Signalis</defName>
         <label>Music Expanded: Signalis</label>
 		<iconPath>UI/Icons/Signalis</iconPath>
-        <description>Contains Tracks from Signalis and features several combat tracks from the game.</description>
+        <description>Contains tracks from Signalis. Twelve combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes a main menu theme.</description>
 		<tracks>	
 			<!-- Ambient Tracks --> 	
 			
